@@ -1,18 +1,20 @@
+/* header */
+
 .con{
     background: url(../image/Banner\ Image.png) ;
     background-position: center;
     background-position: top;
     background-size: 62%;
     color: white;
-    height: 100vh;
+    /* height: 100vh; */
     background-repeat: no-repeat;
     position: relative;
     padding-top: 215px;
     padding-left: 710px;
     font-size: 32px;
-    
-  }
-
+    border: 1px solid blue;
+    }
+ 
 .conh{
 
   position: absolute;
@@ -21,6 +23,7 @@
   top: 140px;
   left: 830px;
   font-size: 28px;
+  margin-bottom: 0px;
  }
 
 .conh1{
@@ -45,12 +48,125 @@
     height: 512px;
     opacity: 2;
    left: 380px;
-   /* right: 378px; */
    top: 2px;
   
   background-position: top;
-  background-size: 100%;
+  /* background-size: 100%; */
   z-index: 1;
+  margin-bottom: 0px;
   
 }
+/* header 2nd part */
+
+.header{
+ border: 1px solid red;
+}
+.infoh{
+  color: black;
+  text-align: center;
+  padding-top: 400px;
+  padding-right: 700px;
+  color: rgb(222, 20, 20);
+  margin-bottom: 0px;
+  border: 1px solid orange;
+}
+.our{
+  font-size: 25px;
+  margin-bottom: 5px;
+  
+}
+.all{
+  font-size: 40px;
+  color: black;
+  margin-top: 0px;
+}
+/* sec 1 */
+.img{
+ margin-left: 550px;
+ margin-top: 20px;
+ border: 1px solid greenyellow;
+}
+/* sec 2 */
+.img2{
+  background-image: url(../image/Group\ 70.png), url(../image/Vectorrr.png);
+  background-size: 15%, 60%;
+  
+  
+  height: 500px;
+  background-repeat: no-repeat;
+  border: 1px solid red;
+ 
+background-position: center;
+background-position: 1100px 50px, 370px 0px;  
+ /* horizontal vertical */
+
+margin-top: 70px;
+position: relative;
+
+}
+
+.overlay2{
+  background-image: linear-gradient( to right,
+  rgba(0, 0, 0, 0.961),
+rgba(35, 24, 24, 0.961),
+rgba(18, 17, 17, 0.1),
+rgba(18, 17, 17, 0.1));
+ position: absolute;
+ height: 500px;
+ width: 1125px;
+ /* background-color: red; */
+ opacity: 1;
+ left: 370px;
+ z-index: 2;
+ margin-top: 2px;
+
+ 
+}
+.welcome{
+justify-content: center;
+padding-left: 300px;
+color: white;
+position: absolute;
+z-index: 2;
+font-size: 50px;
+font-family: sans-serif;
+
+
+}
+.with{
+  justify-content: center;
+padding-left: 300px;
+color: white;
+position: absolute;
+z-index: 2;
+padding-top: 150px;
+font-size: 18px;
+}
+.btn{
+
+z-index: 2;
+position: absolute;
+padding-left: 300px;
+padding-top: 250px;
+
+}
+.join:hover{
+  background-color:slategrey;
+}
+.join{
+  background:none;
+  border: none;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+}
+.weldiv{
+  padding-top: 50px;
+  text-align: left;
+  padding-left: 140px;
+}
+/* sec 3 */
+
+
 
