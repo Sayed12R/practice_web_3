@@ -167,6 +167,119 @@ padding-top: 250px;
   padding-left: 140px;
 }
 /* sec 3 */
+.overlay3{
+  background-image: linear-gradient(to bottom,
+  rgba(193, 162, 151, 0.921),
+  rgba(188, 168, 152, 0.937),
+  rgba(219, 208, 206, 0.885),
+  rgba(0, 0, 0, 0.1));  
+  opacity: .4;
+  width: 1125px;
+  height: 500px;
+  left: 379px;
+  /* top: 1000px; */
+  /* padding-top: 150px; */
+  margin-top: 50px;
+  position: absolute;
+}
+.plheader{
+  z-index: 2;
+  position: absolute;
+  /* padding-left: 300px; */
+padding-left: 660px;
+font-size: 30px;
+padding-top: 150px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+font-weight: bold;
+}
+.pdt{
+  color: red;
+  font-weight: bold;
+}
+.join1{
+
+  position: absolute;
+  z-index: 2;
+  padding-left: 890px;
+  padding-top: 410px;
+}
+.join11{
+  padding: 12px 25px;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.join11:hover{
+  background-color: lightsalmon;
+}
+/* sec 4 */
+
+.ws{
+  border: 1px solid blue;
+  margin-top: 630px;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  margin-bottom: 0px;
+}
+.new{
+  padding-top: 60px;
+  font-size: 17px;
+  padding-left: 250px;
+  /* padding-right: 90px; */
+}
+.tt4{
+  padding-right: 200px;
+  padding-bottom: 50px;
+  margin-left: 0px;
+  padding-top: 60px;
+  font-size: 20px;
+}
+.com{
+  font-size: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.laypic{
+     margin-top: 0px;
+     margin-left: 50px;
+     margin-right: 70px;
+     /* background-color: yellow; */
+   
+}
+.happy1{
+  /* background-color: aquamarine; */
+  align-items: start;
+  margin-left: 0px;
+  /* padding-bottom: 90px; */
+  margin-top: 0px;
+
+}
 
 
+.laypic{
+  margin: 0px;
+  border: 20px solid red;
+}
+  
+.new,.laypic,.tt4{
+  border: 1px solid brown ;
+}
+.happy{
+  border: 1px solid red;
+ margin-right: 0px;
+  /* background-color: aqua; */
+}
+.cred{
+  color: red;
+  /* background-color: aqua; */
+  margin-bottom: 0px;
+}
+#crd{
+  margin-bottom: 0px;
+}
 
