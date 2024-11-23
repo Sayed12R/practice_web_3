@@ -282,4 +282,15 @@ font-weight: bold;
 #crd{
   margin-bottom: 0px;
 }
-
+/* sec 5 */
+.what{
+  text-align: center;
+  margin-top: 80px;
+  font-size: 20px;
+  border: 1px solid blueviolet;
+}
+.hol{
+  font-size: 40px;
+  margin-top: 0px;
+  font-family: 'Courier New', Courier, monospace;
+}
