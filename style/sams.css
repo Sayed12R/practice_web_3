@@ -294,3 +294,21 @@ font-weight: bold;
   margin-top: 0px;
   font-family: 'Courier New', Courier, monospace;
 }
+/* sec 6 */
+.holiimg{
+  border: 2px solid gold;
+  margin-top: 30px;
+  background-image: url(../image/rectangle/Rectangle\ 1.png), url(../image/Group\ 75.png),url(../image/rectangle/Rectangle\ 2.png) ;
+  background-repeat: no-repeat;
+  height: 70vh;
+ background-position: top right 279px, 30% 70%,center 433px;
+ background-size: auto,600px,auto;
+ margin-bottom: 0px;
+
+}
+.g44{
+  padding-left: 1020px;
+  padding-top: 78px;
+  margin-bottom: 0px;
+}
+/* sec 7 */
