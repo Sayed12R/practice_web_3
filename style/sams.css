@@ -312,3 +312,30 @@ font-weight: bold;
   margin-bottom: 0px;
 }
 /* sec 7 */
+.the{
+  margin-top: 90px;
+  background-repeat: no-repeat;
+  background-image: url(../image/rectangle/Rectangle\ 3.png), url(../image/rectangle/Rectangle\ 4.png),url(../image/rectangle/Rectangle\ 5.png),url(../image/rectangle/Rectangle\ 6.png),url(../image/rectangle/Rectangle\ 7.png),url(../image/rectangle/Rectangle\ 8.png);
+  background-position: 290px 170px,725px 170px,1160px 170px,290px 635px,725px 635px,1160px 635px;
+  height: 115vh;
+  border: 1px solid blueviolet;
+ 
+}
+.tb{
+  color: red;
+  font-size: 25px;
+  margin-bottom: 0px;
+  margin-left: 290px;
+}
+.ow{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 30px;
+  margin: 0px;
+  margin-left: 290px;
+}
+.tbow{
+  font-size: 19px;
+  margin-left: 290px;
+  /* margin-bottom: 100px; */
+}
+/* sec 8 */
